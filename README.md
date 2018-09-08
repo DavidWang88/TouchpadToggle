@@ -30,11 +30,11 @@ Thinkpad 的某些型号的笔记本（如 [T470s](https://www.lenovo.com/us/en/
 
 3. 打开 Lenovo Vantage，转到 `硬件设置` -> `输入`，见下图：
 
-![Fn按键设置](https://github.com/DavidWang88/TouchpadToggle/raw/master/ScreenCapture/FnKeySetting.png) 
+![Fn按键设置](https://github.com/DavidWang88/TouchpadToggle/raw/master/ScreenCapture/FnKeySetting.jpg) 
 
 转到 `键盘` -> `用户自定义键` 设置，见下图：
 
-![用户自定义键设置](https://github.com/DavidWang88/TouchpadToggle/raw/master/ScreenCapture/F12Setting.png)
+![用户自定义键设置](https://github.com/DavidWang88/TouchpadToggle/raw/master/ScreenCapture/F12Setting.jpg)
 
 右侧选择 `打开应用程序或文件` -> `添加文件`，浏览到前面已解压目录下的 `TouchpadToggle.exe`，确定即可。
 
