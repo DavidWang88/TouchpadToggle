@@ -1,0 +1,15 @@
+<svg width="128" height="128" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="linearGradient4166" y2="0.91496" x2="0.05675" y1="0.11367" x1="0.8814">
+   <stop id="stop3630-72-9-1" offset="0" stop-color="#dbdbdb"/>
+   <stop id="stop3632-7-0-7" offset="1" stop-color="#757575"/>
+  </linearGradient>
+ </defs>
+ <metadata>image/svg+xmlOpenclipartTouchpad Enable Icon2010-11-21T20:31:15Icon inspired by Awoken gtk icons themehttps://openclipart.org/detail/97507/touchpad-enable-icon-by-kubakubaAwOkenenablegradientgreyiconmonoshapeokontouchpad</metadata>
+ <g>
+  <title>Layer 1</title>
+  <path id="rect3902-2" d="m18.813,13.438c-4.6876,0 -8.5,3.7811 -8.5,8.4688l0,47.5l0,11.688l52.094,0l3.1875,0l52.094,0l0,-11.688l0,-47.5c0,-4.6876 -3.7811,-8.4688 -8.4688,-8.4688l-90.406,0l-0.0007,0zm-8.5,70.844l0,12.531l0,9.2812c0,4.6876 3.8124,8.4688 8.5,8.4688l31.469,0l12.125,0l0,-30.281l-52.094,0zm55.281,0l0,30.281l2.6562,0l9.4688,0l31.5,0c4.6876,0 8.4688,-3.7811 8.4688,-8.4688l0,-9.2812l0,-12.531l-52.094,0l0.0002,0z" fill="url(#linearGradient4166)"/>
+  <rect id="rect3872" height="128" width="128" y="0.42188" x="-0.84375" stroke-width="0.9636" opacity="0" fill="black"/>
+  <path id="path3984" d="m64.33509,27c-11.189,0 -20.25,9.0614 -20.25,20.25s9.0614,20.281 20.25,20.281s20.281,-9.0927 20.281,-20.281c0,-11.189 -9.09,-20.25 -20.276,-20.25l-0.005,0zm10.594,8.4375l4.9375,4.9375l-13.781,13.812l-4.9375,4.9375l-4.9375,-4.9375l-7.4062,-7.4062l4.9375,-4.9375l7.4062,7.4062l13.781,-13.812z" fill="#008000"/>
+ </g>
+</svg>
