@@ -38,5 +38,10 @@ Thinkpad 的某些型号的笔记本（如 [T470s](https://www.lenovo.com/us/en/
 
 右侧选择 `打开应用程序或文件` -> `添加文件`，浏览到前面已解压目录下的 `TouchpadToggle.exe`，确定即可。
 
-4. 以后只需按下 `Fn+F12` 组合键即可调用 TouchpadToggle 进行触摸板开关自动切换了（小工具会在执行切换完成后自动退出，绿色又环保 ^_^）。
+4. 以后只需按下 `Fn+F12` 组合键即可调用 TouchpadToggle 进行触摸板开关自动切换了，同时会显示切换到的状态（小工具会在执行切换完成后自动退出，绿色又环保 ^_^）。
 
+![切换指示](https://github.com/DavidWang88/TouchpadToggle/raw/master/ScreenCapture/OnScreenDisplay.jpg)
+
+## 已知问题
+
+1. 系统锁定后重新登录，小工具之前禁用的触摸板会自己恢复启用状态，目前暂无解决办法。
