@@ -1,12 +1,12 @@
 # TouchpadToggle
 
-—— Touchpad Toggle utility for Thinkpad(T470s/T570 etc.)
+—— Touchpad Toggle utility for Thinkpad(T470s/T570/X1 Carbon etc.)
 
-Thinkpad 触摸板开关小工具，特别针对 T470s/T570 型号。
+Thinkpad 触摸板开关小工具，特别针对 T470s/T570/X1 Carbon 等型号。
 
 ## 为什么要有这个小工具？
 
-Thinkpad 的某些型号的笔记本（如 [T470s](https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-t-series/ThinkPad-T470s/p/22TP2TT470S)、[T570](https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-t-series/ThinkPad-T570/p/22TP2TT5700) 等）的触摸板无便捷的开关，无法通过常规Fn组合快捷键来实现启用/禁用触摸板。
+Thinkpad 的某些型号的笔记本（如 [T470s](https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-t-series/ThinkPad-T470s/p/22TP2TT470S)、[T570](https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-t-series/ThinkPad-T570/p/22TP2TT5700)、[X1 Carbon](https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-x/ThinkPad-X1-Carbon-5th-Gen/p/22TP2TXX15G) 等）的触摸板无便捷的开关，无法通过常规Fn组合快捷键来实现启用/禁用触摸板。
 
 虽然 Synaptics 触摸板在 Win10 控制面板里有相应的设置选项（见下图），`触摸板->开/关` 选项，但毕竟操作不便。另外，其还提供有 `连接鼠标时让触摸板保持打开状态` 选项，若该选项取消勾选，当连接了有线鼠标后，会自动禁用掉触摸板，当断开有线鼠标后，会自动启用触摸板，但对于无线鼠标来说，只要插入有效的外部适配器（不管无线鼠标是否已经配对正常工作），系统就会认为已连接外部鼠标，在使用上也有些不便。
 
