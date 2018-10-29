@@ -1,10 +1,14 @@
 # TouchpadToggle
 
+[![License](https://img.shields.io/badge/license-GPL--3.0-green.svg)](https://github.com/DavidWang88/TouchpadToggle/blob/master/LICENSE) 
+[![GitHub All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)](https://github.com/DavidWang88/TouchpadToggle)
+ [![Supporting](https://img.shields.io/badge/Thinkpad-T470s%2FT570%2FX1--Carbon-green.svg)](https://github.com/DavidWang88/TouchpadToggle)
+
 —— Touchpad Toggle utility for Thinkpad(T470s/T570/X1 Carbon etc.)
 
 Thinkpad 触摸板开关小工具，特别针对 T470s/T570/X1 Carbon 等型号。
 
-## 为什么要有这个小工具？
+## 为什么会有这个小工具？
 
 Thinkpad 的某些型号的笔记本（如 [T470s](https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-t-series/ThinkPad-T470s/p/22TP2TT470S)、[T570](https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-t-series/ThinkPad-T570/p/22TP2TT5700)、[X1 Carbon](https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-x/ThinkPad-X1-Carbon-5th-Gen/p/22TP2TXX15G) 等）的触摸板无便捷的开关，无法通过常规Fn组合快捷键来实现启用/禁用触摸板。
 
@@ -22,7 +26,7 @@ Thinkpad 的某些型号的笔记本（如 [T470s](https://www.lenovo.com/us/en/
 
 选用 AutoHotKey 一方面是因为我对其很熟悉，另外这个功能本身就很简单，核心代码没几行就可以实现了，使用 VB、C# 等太麻烦了。
 
-## 如何使用这个小工具？
+## 如何设置和使用这个小工具？
 
 1. 确保系统安装有 [Lenovo Vantage](https://vantage.lenovo.com/) 这款软件。
 
